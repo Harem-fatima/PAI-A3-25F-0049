@@ -16,3 +16,4 @@ This repository contains the completed Assignment 3 for Programming for AI.
 
 ## Challenge
 One challenging part was creating the dashboard visualizations and exporting them into different file formats.
+day 2 
